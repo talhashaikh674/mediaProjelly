@@ -1,0 +1,2566 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* +++++++++++++++++++++++++++ Custom Scrollbars CSS open +++++++++++++++++++++++++++ */
+
+/* width */
+::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #e62525; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+
+/* +++++++++++++++++++++++++++ Custom Scrollbars CSS Close +++++++++++++++++++++++++++ */
+
+
+
+/* ==================================== Heder Top  CSS Open =================================== */
+
+.HederTop {
+    background-color: #e62525;
+    /* padding: 6px 0; */
+}
+#Linkedinicontop {
+    font-size: 16px;
+    color: #fff !important;
+}
+#Linkedinicontop:hover {
+    color: rgb(249 246 246 / 80%) !important;
+}
+#pl {
+    padding-left: 40px !important;
+}
+.linelink {
+    width: 1px;
+    background-color: rgb(149 121 121 / 46%) !important;
+    height: 30px;
+}
+.flexlyi {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.flexlinkyouinsta {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+.CLIENT-PORTAL {
+    font-size: 11px;
+    color: #fff;
+    font-weight: 500;
+}
+.CLIENT-PORTAL:hover {
+    color: rgb(219 213 213) !important;
+    border-bottom: 1px solid #fff;
+    text-decoration: none;
+    transition: 0.5s;
+}
+.PORtalflex {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.NUMPortalflex {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+/* ==================================== Heder Top  CSS Close =================================== */
+
+
+/* ==================================== Navbar CSS Open ==================================== */
+
+.dropdown-menu.show {
+    background-color: #e62525;
+    /* border: 1px solid #e62525; */
+}
+.dropdown-item {
+    color: #fff !important;
+    font-weight: 500 !important;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+}
+.dropdown-item:hover {
+    color: #000 !important;
+    /* transition: 0.3s; */
+}
+div#navbarSupportedContent {
+    margin-left: -140px;
+}
+.LOGO {
+    width: 60% !important;
+    height: auto;
+}
+a.nav-link {
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 28px;
+    color: #333 !important;
+}
+a.nav-link:hover {
+    border-bottom: 2px solid #e62525 !important;
+    transition: 0s;
+}
+.btn1 {
+    padding: 5px 18px;
+    color: #333;
+    border-radius: 20px;
+    font-size: 17px;
+    font-weight: 500;
+    border: 2px solid rgba(0,0,0,.4) !important;
+    background-color: transparent;
+    margin-right: 25px !important;
+}
+.btn1:hover {
+    color: #e62525;
+    border: 2px solid #e62525 !important;
+    text-decoration: none;
+    transition: 0.6s;
+}
+.btn2 {
+    padding: 7px 22px;
+    color: #fff;
+    border-radius: 20px;
+    font-size: 17px;
+    font-weight: 500;
+    background-color: #e62525;
+}
+.btn2:hover {
+    background-color: #e95353;
+    transition: 0.6s;
+    text-decoration: none;
+    color: #fff;
+}
+.navbar-expand-lg .navbar-collapse {
+    justify-content: flex-end;
+    align-items: center;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 2.5rem !important;
+}
+.NAVsect {
+    width: 100%;
+    position: relative;
+    z-index: 9998;
+}
+
+/* ==================================== Navbar CSS Close =================================== */
+
+
+/* ==================================== Scetion 1 CSS Open =================================== */
+
+.sect1 {
+    background-image: url(img/big-red-jelly-background-banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.hding {
+    font-weight: 600;
+    color: #fff;
+    font-size: 50px;
+    line-height: 60px;
+    margin: 0 0 40px 0;
+}
+.btn3 {
+    background-color: transparent;
+    border: 2px solid rgba(255,255,255,.75) !important;
+    padding: 12px 22px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 50px;
+    color: #fff;
+}
+.btn3:hover {
+    background-color: #e62525;
+    border: 2px solid #e62525 !important;
+    transition: 0.5s;
+    text-decoration: none;
+    color: #fff;
+}
+.btn4 {
+    color: rgb(79, 79, 79);
+    background-color: #fff;
+    border: 2px solid #fff;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 50px;
+    padding: 12px 20px;
+}
+.btn4:hover {
+    box-shadow: 0 20px 38px rgba(0,0,0,0.16) !important;
+    transition: 0.5s;
+    color: rgb(79, 79, 79);
+    text-decoration: none;
+    background-color: #e3dede;
+    border: 2px solid #e3dede;
+}
+.Brand-Buildimg {
+    width: 100%;
+    margin-top: -100px;
+}
+
+/* ==================================== Scetion 1 CSS Close ================================== */
+
+
+
+/* ==================================== Scetion 2 CSS Open ================================== */
+
+
+.owl-carousel .owl-item img {
+    display: block;
+    width: 100% !important;
+    /* border-radius: 100%; */
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* section.owlcarouselsect {
+    margin-top: 100px;
+} */
+
+/* ==================================== Scetion 2 CSS Close ================================== */
+
+
+/* ==================================== Scetion 3 CSS Open ================================== */
+
+.hding1 {
+    font-size: 40px;
+    color: #444;
+    line-height: 55px;
+    font-weight: 700;
+    text-align: center;
+}
+.hding2 {
+    color: #808080;
+    /* font-size: ; */
+    text-align: center;
+    font-weight: 600;
+}
+.sect3 {
+    padding: 50px 0;
+    background-color: #f9f9f9 !important;
+}
+
+/* ==================================== Scetion 3 CSS Close ================================== */
+
+
+
+/* ==================================== Scetion 4 CSS Open ================================== */
+
+.icons {
+    max-width: 30%;
+    margin-bottom: 25px;
+    transition: 0.4s;
+}
+.icons:hover {
+    transform: scale(1.2);
+}
+.hding3 {
+    font-size: 30px;
+    color: #e62525;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+.hding3:hover {
+    color: #444;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.para {
+    color: #808080;
+    font-size: 18px;
+}
+.sect4 {
+    padding: 0 0 40px 0;
+    background-color: #f9f9f9 !important;
+}
+
+/* ==================================== Scetion 4 CSS Close ================================== */
+
+
+
+
+
+/* ==================================== Scetion 5 CSS Olose ================================== */
+
+.Home-Page-img {
+    max-width: 100%;
+}
+.hding4 {
+    font-size: 40px;
+    margin-bottom: 25px;
+    font-weight: 700;
+    color: #444;
+}
+.line {
+    background-color: #e62525;
+    width: 90px;
+    height: 8px;
+    /* border-radius: 10px; */
+    margin: 0 0 25px 0;
+}
+.para1 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #808080;
+    margin-bottom: 40px;
+    line-height: 28px;
+}
+.btn5 {
+    background-color: #e62525;
+    color: #fff;
+    padding: 14px 30px;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 50px;
+}
+.btn5:hover {
+    background-color: #ed3636;
+    color: #fff;
+    transition: 0.5s;
+    text-decoration: none;
+}
+.scet5 {
+    padding: 50px 0;
+}
+
+/* ==================================== Scetion 5 CSS Close ================================== */
+
+
+/* ==================================== Scetion 6 CSS Open ================================== */
+
+.sect6 {
+    padding: 50px 0 20px 0;
+    background-color: #f9f9f9 !important;
+}
+.Homepage-Mockup-img {
+    width: 100%;
+}
+
+/* ==================================== Scetion 6 CSS Close ================================== */
+
+
+
+/* ==================================== Scetion 7 CSS Open ================================== */
+
+.sect7 {
+    background-image: url(img/big-red-jelly-Resources-background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 0;
+}
+.maindiv1 {
+    background-color: #fff;
+    padding: 49px 0 10px 0;
+    border-radius: 8px;
+}
+.hding5 {
+    color: #000;
+    font-size: 24px;
+    margin-bottom: 6px;
+    text-align: center;
+    font-weight: 600;
+}
+#staricon {
+    font-size: 35px;
+    color: rgb(241 241 0);
+}
+.Google-LOGO-img {
+    width: 45%;
+    margin-top: 6px;
+}
+.stariconleft{
+    text-align: center;
+}
+.Basedon {
+    text-align: center;
+}
+.googlecenter {
+    text-align: center;
+}
+
+.hding6 {
+    font-size: 15px;
+    margin: 0;
+    font-weight: bold;
+}
+.para2 {
+    font-size: 12px;
+    margin: 0;
+}
+.imgtextflex {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 5px;
+}
+.Testimonials {
+    display: flex;
+    align-items: center;
+    /* padding: 15px; */
+    gap: 14px;
+    background-color: #fff;
+}
+.maintexttimonial {
+    border-radius: 4px;
+    background-color: #fff;
+    padding: 15px 12px;
+}
+#staricon2 {
+    font-size: 25px;
+    color: rgb(241 241 0);
+    margin-top: 30px;
+}
+.para3 {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+/* ==================================== Scetion 7 CSS Close ================================== */
+
+
+
+/* ==================================== Scetion 8 CSS Open ================================== */
+
+.sect8 {
+    padding: 50px 0;
+    background-color: #f9f9f9;
+}
+.line2 {
+    background-color: #e62525;
+    width: 20%;
+    height: 3px;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+.maindiv2 {
+    margin-top: 20px;
+}
+.hding7 {
+    font-size: 44px;
+    font-weight: 700;
+    color: #e62525;
+    text-align: center;
+}
+.parentdiv {
+    padding: 40px 0 !important;
+    background-color: #fff;
+    box-shadow: 0 1px 1px rgba(0,0,0,.1) !important;
+}
+.parentdiv:hover {
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px !important;
+    transition: 0.5s;
+    margin-top: -5px;
+}
+.BBGLIST {
+    padding: 25px 0 0 60px;
+}
+.BBGLIST li {
+    /* list-style: none; */
+    text-align: left;
+}
+.BBGSTYLE {
+    font-size: 20px;
+    color: #e62525;
+}
+.BBGSTYLE:hover {
+    color: #878787d6 !important;
+    transition: 0.5s;
+    text-decoration: none;
+}
+.BBGLIST li::marker {
+    color: #878787d6;
+}
+
+/* ==================================== Scetion 8 CSS Close ================================= */
+
+
+/* ==================================== Scetion 9 CSS Open ================================= */
+
+.sect9 {
+    padding: 40px 0;
+}
+  .parentdiv1 {
+    background-color: #fff;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px !important;
+  }
+  
+  .image {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+  .image:hover {
+    transform: scale(1.1);
+    transition: 0.4s;
+  }
+  
+  .middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50.5%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  .parentdiv1:hover .image {
+    opacity: 0.3;
+    cursor: pointer;
+  }
+  
+  .parentdiv1:hover .middle {
+    opacity: 1;
+    cursor: pointer;
+  }
+  .borders {
+    border: 5px solid #e62525;
+    padding: 30px 100px;
+  }
+  
+.sect10 {
+    padding: 40px 0;
+    background-color: #f9f9f9;
+}
+.maindiv3 {
+    margin-top: 40px;
+}
+
+/* ==================================== Scetion 9 CSS Close ================================= */
+
+
+
+/* ==================================== Scetion 11 CSS Open ================================= */
+
+.sect11 {
+    padding: 50px 0;
+}
+.Page-1-img {
+    width: 100%;
+    margin-top: 40px;
+}
+.hding8 {
+    font-size: 35px;
+    color: #444;
+    line-height: 45px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+.para4 {
+    font-size: 18px;
+    color: #808080;
+    text-align: justify;
+    padding: 0 47px 15px 0;
+}
+
+/* ==================================== Scetion 11 CSS Close ================================ */
+
+
+/* ==================================== Scetion 12 CSS Open ================================ */
+
+.sect12 {
+    padding: 40px 0;
+}
+.page-2-img {
+    width: 100%;
+}
+.hding9 {
+    font-size: 30px;
+    line-height: 40px;
+    color: #444;
+}
+.para5 {
+    font-size: 18px;
+    color: #808080;
+}
+.sect12content {
+    padding: 0 0 0 20px;
+}
+.sect12content li {
+    padding-left: 20px;
+}
+.sect12content li strong {
+    color: #585858;
+    font-weight: 600;
+    font-size: 18px;
+}
+.sect12content li::marker {
+    color: #585858;
+    font-size: 16px;
+}
+.Emailfomr {
+    padding: 6px 0 6px 15px;
+    width: 100%;
+    background-color: #0000000a;
+    border: 1.5px solid #00000038;
+    box-sizing: border-box;
+    margin: 8px 0 20px 0;
+}
+.Firstfomr {
+    padding: 6px 0 6px 15px;
+    width: 100%;
+    background-color: #0000000a;
+    border: 1.5px solid #00000038;
+    box-sizing: border-box;
+    margin: 8px 0 20px 0;
+}
+.backclor {
+    background-color: #0f86c8;
+    padding: 10px;
+}
+.priter {
+    color: #fff;
+    font-size: 12px;
+}
+.priter:hover {
+    color: #fff;
+}
+.reCAPTCHA {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 10px;
+}
+.backCAPTCHAFlex {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.phoneemail {
+    color: #e62525;
+    font-size: 25px;
+    line-height: 35px;
+    font-weight: 600;
+}
+.phoneemail:hover {
+    color: #444;
+    text-decoration: none;
+    transition: 0.5s;
+}
+.btn6 {
+    color: #444;
+    border: 3px solid #444;
+    padding: 13px 20px;
+    border-radius: 50px;
+    background-color: transparent;
+    font-size: 18px;
+    font-weight: 600;
+}
+.btn6:hover {
+    background-color: #e62525;
+    transition: 0.5s;
+    border: 3px solid #e62525;
+    text-decoration: none;
+    color: #fff;
+}
+.btn7 {
+    background-color: #e62525;
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+    padding: 16px 35px;
+    border-radius: 50px;
+}
+.btn7:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+    text-decoration: none;
+    transition: 0.5s;
+    color: #fff;
+}
+.btn6btn7 {
+    margin-top: 40px;
+}
+.sect13 {
+    background-color: #f9f9f9 !important;
+    padding: 50px 0;
+}
+
+/* ==================================== Scetion 12 CSS Close ================================ */
+
+
+/* ==================================== FOOTER CSS Open ================================ */
+
+.sectfooter {
+    background-color: #252525;
+    padding: 50px 15px;
+}
+.hding10 {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 26px;
+}
+.footpara {
+    margin: 4px 0;
+}
+.footpara a {
+    color: #c3c3c3;
+    font-weight: 500;
+    font-size: 16px;
+}
+.footpara a:hover{
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.maindiv4foot {
+    margin-top: 40px;
+}
+.footline {
+    /* background-color: #fff; */
+    width: 100%;
+    border: 1px solid #c3c3c3;
+}
+#fa-twitter-icon {
+    color: #c3c3c3;
+    font-size: 20px;
+    font-weight: 700;
+}
+.faviconflexexes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 18px;
+    margin: -12px 0 0 0;
+}
+.para6 {
+    color: #fff;
+    font-weight: 500;
+    margin: 25px 0 20px 0;
+}
+a.Privacy-Policy {
+    color: #c3c3c3;
+}
+a.Privacy-Policy:hover {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.4s;
+}
+/* ==================================== FOOTER CSS Close ================================ */
+
+
+
+/* ==================================== Resources sect 1 CSS Opeen ================================ */
+
+.Resourcessect1 {
+    background-image: url(img/big-red-jelly-Resources-background.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.Resourceshding {
+    color: #fff;
+    font-size: 50px;
+    line-height: 70px;
+    font-weight: 600;
+}
+.para7 {
+    color: #fff;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 500;
+}
+/* ==================================== Resources sect 1 CSS Close ================================ */
+
+
+/* ==================================== Resources sect 2 CSS Open ================================ */
+
+.Resourcessect2 {
+    padding: 50px 0;
+}
+.Resources-imge-1 {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+}
+.Resourceshding1 {
+    font-size: 40px;
+    color: #444;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+.para8 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #6c6c6c;
+    margin-bottom: 40px;
+    line-height: 28px;
+}
+.btn8 {
+    color: #fff;
+    background-color: #e62525;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 50px;
+    padding: 25px 40px;
+}
+.btn8:hover {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.5s;
+    background-color: #ed3636;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+}
+.btn9 {
+    color: #e62525;
+    background-color: transparent;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 50px;
+    border: 2px solid #e62525;
+    padding: 24px 40px;
+}
+.btn9:hover {
+    border: 2px solid #e62525;
+    color: #fff;
+    transition: 0.5s;
+    text-decoration: none;
+    background-color: #e62525;
+}
+.Resourcescontent1 {
+    margin-top: 10%;
+}
+
+/* ==================================== Resources sect 2 CSS Close ================================ */
+
+
+/* ==================================== Blog sect 1 CSS open ================================ */
+
+.blogsect1 {
+    background-image: url(img/Blog-Banner.jpg);
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* padding: 200px 0; */
+}
+.blogsectbackclor {
+    background-color: rgb(0 0 0 / 81%);
+    padding: 100px 0;
+}
+.Blogpara {
+    font-size: 24px;
+    font-weight: 500;
+    color: #fff;
+    margin: -25px 0 0 0;
+}
+#lightbulb {
+    color: #fff;
+    font-size: 50px;
+}
+.bloghding {
+    color: #fff;
+    font-size: 26px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+.Blogmaindiv {
+    margin-top: 40px;
+}
+
+/* ==================================== Blog sect 1 CSS Close ================================ */
+
+
+/* ==================================== Blog sect 2 CSS Open ================================ */
+
+.Blog1234-img {
+    width: 100%;
+    transition: 0.4s;
+}
+.Blog1234-img:hover {
+    transform: scale(1.1);
+}
+.blogsect2 {
+    padding: 80px 0;
+}
+
+/* ==================================== Blog sect 2 CSS Close ================================ */
+
+
+
+/* ==================================== Blog sect 3 CSS Open ================================ */
+
+.Blogsect3 {
+    padding: 40px 0;
+}
+.Blog-img-1to8 {
+    width: 100%;
+    border-radius: 8px;
+    transition: 0.4s;
+}
+.Blog-img-1to8:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.Blogpara1 {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 12px 0;
+}
+.bloghding1 {
+    font-weight: 700;
+    color: #000;
+    font-size: 24px;
+    margin-bottom: 12px;
+}
+.Blog-img-1to2 {
+    width: 100%;
+    border-radius: 8px;
+    transition: 0.4s;
+    margin: 20px 0 46px 0;
+}
+.Blog-img-1to2:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+#fa-twitter-icon-blog {
+    font-size: 20px;
+    font-weight: 700;
+    color: #000;
+}
+.BLOG-FAVIcon-Flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.BLOG-Current-Header-IMG img {
+    width: 100%;
+    text-align: center;
+    margin: 30px 0;
+}
+.Blogpara2 {
+    text-align: center;
+    font-size: 18px;
+    color: #676767;
+}
+.Name-Text {
+    padding: 5px 15px;
+    width: 100%;
+    border-radius: 10px;
+    min-height: 27px;
+    background-color: #f5f8fa;
+    border: 1px solid #adadad;
+    margin-top: 8px;
+}
+.Online-Courses-Blog-img img {
+    width: 100%;
+    margin-top: 30px;
+    text-align: center;
+    transition: 0.4s;
+}
+.Online-Courses-Blog-img img:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.Case-Studies-Sidebar-img {
+    width: 100%;
+    transition: 0.4s;
+}
+.Case-Studies-Sidebar-img:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.Meet-Your-Team-Blog-img {
+    width: 100%;
+    transition: 0.4s;
+    margin-top: 20px;
+}
+.Meet-Your-Team-Blog-img:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.Blogpara3 {
+    font-size: 18px;
+    color: #676767;
+    font-weight: 500;
+    margin: 20px 0 10px 0;
+}
+.Categories-List {
+    font-size: 18px;
+    color: #e62525;
+    font-weight: 500;
+}
+.Categories-List:hover {
+    color: #676767;
+    text-decoration: none;
+    transition: 0.4s;
+}
+.Blogcontent2 {
+    display: flex;
+    flex-direction: column;
+}
+.Blog-img-1to100 {
+    width: 100%;
+    border-radius: 8px;
+    transition: 0.4s;
+    margin: 30px 0 32px 0;
+}
+.Blog-img-1to100:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.Blogsect5 {
+    padding: 20px 0 40px 0;
+}
+
+/* ==================================== Blog sect 3 CSS Close ================================ */
+
+
+/* ============================== WordPress Hosting sect 1 CSS Open ============================== */
+
+.wordpresssect1 {
+    background-color: #e62525;
+    padding: 40px 0;
+}
+.wordpresshding {
+    font-size: 24px;
+    color: #fff;
+    text-align: left;
+    font-weight: 700;
+}
+.btn-Learn-More {
+    color: rgb(255, 255, 255);
+    border: 2px solid rgba(255, 255, 255, 0.75);
+    padding: 15px 22px;
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 50px;
+}
+.btn-Learn-More:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* ============================== WordPress Hosting sect 1 CSS close ============================= */
+
+
+/* ============================== WordPress Hosting sect 2 CSS open ============================= */
+
+.wordpresssect2 {
+    padding: 100px 0;
+}
+.Price-Table {
+    padding: 18px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+    border-radius: 10px;
+}
+.wordpresshding1 {
+    color: #DD3333;
+    font-size: 40px;
+    font-weight: 600;
+    margin: 0 0 7px 0;
+}
+.wordpresshding2 {
+    font-size: 16px;
+    margin: 0 0 20px 0;
+}
+.Pay-YM {
+    padding: 0 0 0 18px;
+}
+.Pay-YM li {
+    font-size: 16px;
+    font-weight: 400;
+}
+.Pay-YM li::marker {
+    font-size: 10px;
+}
+.Dollar {
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0;
+}
+.Twenty-two {
+    margin: 0;
+    font-size: 45px;
+    color: #000;
+}
+.Month {
+    margin: 0;
+    font-weight: 500;
+    font-size: 20px;
+    color: #000;
+}
+.Dollar-Two-Flex {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 10px;
+}
+.Choose-Plan {
+    margin: 30px 0 20px 0;
+}
+
+/* ============================== WordPress Hosting sect 2 CSS close ============================= */
+
+
+
+/* ============================== WordPress Hosting sect 3 CSS open ============================= */
+
+.wordpresssect3 {
+    background-color: #e62525;
+    padding: 50px 0;
+}
+.wordpresshding3 {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 600;
+}
+.wordpresspara {
+    font-size: 18px;
+    color: #FFFFFF;
+    /* margin-bottom: 20px; */
+}
+.wordpresshding4 {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+i#head-Bried-chart {
+    color: #fff;
+    font-size: 65px;
+}
+.maindiv4press {
+    margin-top: 50px;
+}
+
+/* ============================== WordPress Hosting sect 3 CSS close ============================= */
+
+
+/* ============================== WordPress Hosting sect 4 CSS open ============================= */
+
+.wordpresssect4 {
+    padding: 50px 0;
+}
+.wordpresshding5 {
+    font-size: 40px;
+    color: #444;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.fa-arrow-down  {
+    color: #e62525;
+    margin-bottom: 30px;
+    font-size: 50px !important;
+}
+.wordpresspara1 {
+    color: rgba(10,10,10,0.65);
+    font-size: 18px;
+    font-weight: 500;
+    padding: 0 24%;
+}
+/* ============================== WordPress Hosting sect 4 CSS close ============================= */
+
+
+/* ============================== WordPress Hosting sect 5 CSS open ============================= */
+
+.Hosting1-IMG {
+    width: 80%;
+    margin-bottom: 15px;
+    transition: 0.4s;
+}
+.Hosting1-IMG:hover {
+    transform: scale(1.1);
+}
+.wordpresspara2 {
+    color: rgba(10,10,10,0.65);
+    font-size: 18px;
+    font-weight: 500;
+}
+.wordpresssect5 {
+    padding: 30px 0;
+}
+.wordpresshding6 {
+    font-size: 40px;
+    color: #444;
+    font-weight: 600;
+    margin-top: 50px;
+}
+
+/* ============================== WordPress Hosting sect 5 CSS close ============================= */
+
+
+
+
+
+/* ============================== Process sect 1 CSS open ============================= */
+
+
+.processsect1 {
+    background-image: url(img/big-red-jelly-background-banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 70px;
+    padding-bottom: 100px;
+}
+.processhding {
+    color: #fff;
+    font-size: 50px;
+    font-weight: 700;
+}
+.processpara {
+    color: #fff;
+    font-weight: 500;
+    font-size: 30px;
+}
+.Process-banner-img {
+    width: 100%;
+}
+.Process-form-Control {
+    background-color: #fff;
+    padding: 23px;
+    border-radius: 5px;
+}
+.processhding1 {
+    color: #444;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+}
+.Process-Name {
+    color: #000;
+    font-weight: 500;
+}
+.Procees_Name-Email-FORM {
+    border: 1.5px solid #00000038;
+    background-color: #0000000a;
+    margin-top: 8px;
+    width: 90%;
+    height: 35px;
+    border-radius: 4px;
+}
+.Process-div-1 {
+    margin-top: 25px;
+}
+.processdiv {
+    margin-top: 30px;
+}
+.Main-graphic-img-process {
+    width: 100%;
+    margin-top: 20px;
+}
+.processpara1 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #e62525;
+    margin: 0 0 4px 0;
+}
+.btn8process {
+    margin-top: 20px;
+}
+.Process-banner-img-2 {
+    width: 100%;
+    margin-top: 8%;
+}
+.processsect4 {
+    padding: 50px 0;
+}
+.img-process-banner3 {
+    width: 100%;
+}
+.Process-banner-img-8 {
+    width: 100%;
+    margin-top: -8%;
+}
+.Process-Banner-12-img {
+    width: 100%;
+    margin: 20px 0;
+}
+
+/* ============================== Process sect 1 CSS close ============================ */
+
+.processsect8 {
+    padding: 80px 0 50px 0;
+}
+
+/* %%%%%%%%%%%%%%%%%%%%%%%%%%%% Counters CSS Open %%%%%%%%%%%%%%%%%%%%%%%%%%%% */
+
+.counter {
+    color: #e62525;
+    font-size: 62px;
+    font-weight: 700;
+}
+.section-COUNTER {
+    padding: 20px 0;
+}
+
+/* %%%%%%%%%%%%%%%%%%%%%%%%%%%% Counters CSS Close %%%%%%%%%%%%%%%%%%%%%%%%%%% */
+
+
+
+/* ============================== Process sect 10 CSS open ============================ */
+
+.processsect10 {
+    padding: 30px 0;
+}
+.COOMAAS {
+    font-size: 80px;
+    color: #e62525;
+    font-weight: 200;
+}
+.processpara2 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #808080;
+    line-height: 28px;
+    margin: -35px 0 20px 0;
+}
+.Process-Father-img {
+    border-radius: 200px;
+    width: 60px;
+    height: 60px;
+}
+.processpara3 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #808080;
+    margin-bottom: 20px;
+    line-height: 28px;
+}
+
+/* ============================== Process sect 10 CSS close =========================== */
+
+
+/* ============================== SERVICES Page CSS Open =========================== */
+
+.Services-img-1 {
+    width: 90%;
+    transition: 0.4s;
+    margin-top: 4.5%;
+}
+.Services-img-1:hover {
+    transform: scale(1.1);
+    cursor: pointer   
+}
+.Servicessect2 {
+    padding: 30px 0;
+}
+.web-design-services {
+    color: #e62525;
+}
+.Servicespara {
+    font-weight: 400;
+    font-size: 18px;
+    color: #808080;
+    margin-bottom: 40px;
+    line-height: 28px;
+}
+.Services-img-2-hover {
+    width: 100%;
+    transition: 0.4s;
+}
+.Services-img-2-hover:hover {
+    transform: scale(1.1);
+}
+
+/* ============================== SERVICES Page CSS close ========================== */
+
+
+
+/* ============================== SERVICES sect 6 CSS Open ========================== */
+
+.Servicessect6 {
+    background-color: #f3f3f3;
+    padding: 70px 0;
+}
+.Services-Brand-Build-Grow {
+    padding: 55px;
+    background-color: #fff;
+}
+#lightbulb-BBG {
+    font-size: 50px !important;
+    color: #e62525;
+    margin: 0 0 10px 0;
+}
+.Research-WEB-Growth {
+    padding: 15px 0 0 30px;
+}
+.Research-WEB-Growth li {
+    font-size: 18px;
+    color: #808080;
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+.Research-WEB-Growth li::marker {
+    color: #808080;
+    font-size: 12px;
+}
+.Services-Brand-Build-Grow:hover {
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px !important;
+    /* margin-top: -3px; */
+    transition: 0.4s;
+}
+.ServicesDIV1 {
+    margin-top: 11%;
+}
+.Servicessect4 {
+    padding: 50px 0;
+}
+.ServicesDIV2 {
+    margin-top: 18%;
+}
+.Serviceshding {
+    font-size: 24px;
+    color: #444;
+    font-weight: 700;
+    margin-bottom: 50px;
+    line-height: 34px;
+}
+/* ============================== SERVICES sect 6 CSS close ========================== */
+
+
+
+/* ============================== SERVICES sect 7 CSS open ========================== */
+
+.Servicessect7 {
+    padding: 70px 0;
+}
+#font-size-BRANDED {
+    font-size: 60px;
+    color: #ed3636;
+    margin-bottom: 30px;
+}
+.Serviceshding1 {
+    font-size: 24px;
+    color: #444;
+    font-weight: 600;
+}
+.ServicesDIVparent {
+    margin-top: 50px;
+}
+
+/* ============================== SERVICES sect 7 CSS close ========================== */
+
+
+
+
+/* %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% iframe Css open %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% */
+
+.Servicessect10 {
+    padding: 50px 0;
+}
+.Serviceshding2 {
+    font-size: 30px;
+    color: #676767;
+    font-weight: 700;
+    text-align: center;
+    margin: 20px 0 8px 0;
+}
+.Servicespara1 {
+    color: #BBBBBB;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 500;
+}
+
+/* %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% iframe Css close %%%%%%%%%%%%%%%%%%%%%%%%%%%%% */
+
+
+
+
+/* ============================== SERVICES sect 8 CSS open ========================== */
+
+.Servicessect8 {
+    padding: 50px 0;
+}
+img.Design-Agency-12345 {
+    filter: grayscale(100%) !important;
+}
+img.Design-Agency-12345:hover {
+    filter: grayscale(0%) !important;
+    transition: 0.4s;
+}
+
+/* ============================== SERVICES sect 8 CSS close ========================== */
+
+
+
+/* ============================== SERVICES sect 11 CSS open ========================== */
+
+.Servicessect11 {
+    padding: 50px 0;
+}
+.Serviceshding3 {
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 50px;
+}
+.Serviceshding4 {
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 3px;
+    font-weight: 500;
+}
+.ENTERPRISE-BUSINESS {
+    border-radius: 10px;
+    padding: 10% 15%;
+    border: 1px solid rgb(0 0 0 / 21%) !important;
+    background-color: #e62525;
+}
+.Serviceshding5 {
+    color: #fff;
+    text-align: center;
+    margin-top: 25px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.ServicesDIV3 {
+    margin-top: 40px;
+}
+
+/* ============================== SERVICES sect 11 CSS close ========================= */
+
+
+
+/* ++++++++++++++++++++++++++++ Request a Quote CSS Open ++++++++++++++++++++++++++++ */
+
+.iframe-MOBILE {
+    border-radius: 5px;
+}
+.RequestaQuoteSECT1 {
+    padding: 50px 0;
+    background-color: #e5e5e5 !important;
+}
+.RequestaQuoteSECT {
+    padding: 0 0 100px 0;
+    background-color: #e5e5e5 !important;
+}
+.RequestaQuote-FORM {
+    padding: 36px;
+    border-radius: 15px;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.RequestaQuotehding {
+    text-align: center;
+    font-size: 24px;
+    color: #444;
+    font-weight: 700;
+}
+.Request-Email {
+    font-size: 16px;
+    font-weight: 500;
+    color: #33475b;
+}
+.Email-Input {
+    padding: 6px 0 6px 15px;
+    width: 92.7%;
+    background-color: #0000000a;
+    border: 1.5px solid #00000038;
+    box-sizing: border-box;
+    margin: 8px 0 20px 0;
+    border-radius: 4px;
+}
+.Name-Phone-Input {
+    padding: 6px 0 6px 15px;
+    width: 85%;
+    background-color: #0000000a;
+    border: 1.5px solid #00000038;
+    box-sizing: border-box;
+    margin: 8px 0 20px 0;
+    border-radius: 4px;
+}
+.Requestpara {
+    font-size: 12px;
+    color: #7C98B6;
+    margin-bottom: 6px;
+}
+.Request-CheckBOX {
+    font-size: 16px;
+    font-weight: 500;
+    color: #33475b;
+    margin-left: 4px;
+}
+.Input-Comments {
+    padding: 6px 0 30px 15px;
+    width: 92.7%;
+    background-color: #0000000a;
+    border: 1.5px solid #00000038;
+    box-sizing: border-box;
+    margin: 8px 0 20px 0;
+    border-radius: 4px;
+}
+.Request-BTN {
+    background-color: #e62525;
+    border-color: #e62525;
+    font-size: 16px;
+    color: #fff;
+    padding: 10px 24px;
+    border-radius: 3px;
+    font-weight: 700;
+}
+
+.RequestaQuote-CAROUSEL {
+    padding: 15px 0 50px 0;
+    background-color: #e5e5e5 !important;
+    cursor: pointer;
+}
+
+/* ++++++++++++++++++++++++++++ Request a Quote CSS Close +++++++++++++++++++++++++++ */
+
+
+
+
+/* $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ Contact CSS Open $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ */
+
+.REQUEST-Content {
+    padding: 0 0 0 20px;
+}
+.REQUEST-Content li {
+    padding-left: 20px;
+}
+.REQUEST-Content li strong {
+    color: #808080;
+    font-weight: 400;
+    font-size: 18px;
+}
+.REQUEST-Content li::marker {
+    color: #585858;
+    font-size: 12px;
+}
+.Request-Para {
+    font-weight: 400;
+    font-size: 18px;
+    color: #808080;
+    margin-bottom: 10px;
+    line-height: 28px;
+}
+.Request-imges {
+    width: 100%;
+    transition: 0.4s;
+    margin-top: 12%;
+}
+.Request-imges:hover {
+    transform: scale(1.1);
+}
+.Big-RED-Jelly-ADD {
+    color: #e62525;
+    font-size: 18px;
+    font-weight: 500;
+}
+.Big-RED-Jelly-ADD:hover {
+    color: #33475b;
+    text-decoration: none;
+    transition: 0.4s;
+}
+.ContactSect {
+    padding: 50px 0 80px 0;
+}
+
+/* $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ Contact CSS Close $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ */
+
+
+
+/* +++++++++++++++++++++++++++++++++ BRAND Sect 2 CSS Open +++++++++++++++++++++++++++++++++ */
+
+#Brand-img-1 {
+    margin-top: 20% !important;
+}
+.brandsect2 {
+    padding: 50px 0;
+}
+.BRANDED-IMAGES {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.BRANDED-IMAGES img {
+    transition: 0.5s;
+}
+.BRANDED-IMAGES img:hover {
+    transform: scale(1.2);
+}
+
+
+/* +++++++++++++++++++++++++++++++++ BRAND Sect 2 CSS Close ++++++++++++++++++++++++++++++++ */
+
+
+
+/* +++++++++++++++++++++++++++++++++ BRAND Sect 3 CSS Open ++++++++++++++++++++++++++++++++ */
+
+.brandsect3 {
+    background-color: #f9f9f9;
+    padding: 70px 0;
+}
+.Brand-Services-1-img {
+    max-width: 30%;
+    margin-bottom: 10px;
+    transition: 0.4s;
+}
+.Brand-Services-1-img:hover {
+    transform: scale(1.1);
+}
+.Brandhding {
+    font-size: 18px;
+    color: #e62525;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.brandpara {
+    color: #808080;
+    font-weight: 500;
+    margin: 0;
+}
+.Brand-DIV1 {
+    margin-top: 40px;
+}
+
+/* +++++++++++++++++++++++++++++++++ BRAND Sect 3 CSS Close ++++++++++++++++++++++++++++++++ */
+
+
+
+
+/* +++++++++++++++++++++++++++++++++ BRAND Sect 4 CSS Open ++++++++++++++++++++++++++++++++ */
+
+.Brandhding1 {
+    font-size: 30px;
+    font-weight: 600;
+    color: #444;
+    margin-bottom: 20px;
+}
+.fa-check {
+    color: #e62525;
+    font-size: 34px !important;
+    margin-top: -28px;
+}
+.brandpara1 {
+    font-size: 18px;
+    font-weight: 500;
+    color: #808080;
+    margin: 0;
+}
+.fa-flex-para1 {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    margin-bottom: 20px;
+}
+.brandsect4 {
+    padding: 100px 0;
+}
+
+/* +++++++++++++++++++++++++++++++++ BRAND Sect 4 CSS Close ++++++++++++++++++++++++++++++++ */
+
+
+
+/* +++++++++++++++++++++++++++++++++ BRAND Sect 5 CSS Open ++++++++++++++++++++++++++++++++ */
+
+.brandsect5 {
+    background-image: url(img/big-red-jelly-background-banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+.brandpara2 {
+    color: #fff;
+    font-size: 18px;
+    letter-spacing: 1px;
+    margin-bottom: 25px;
+}
+.Brandhding2 {
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 25px;
+    color: #fff;
+}
+.brandpara3 {
+    font-size: 18px;
+    color: #fff;
+    text-align: justify;
+    padding-right: 65px;
+}
+.btn-BRAND {
+    font-size: 18px;
+    color: #fff;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+}
+.btn-BRAND:hover {
+    text-decoration: none;
+    color: #fff;
+}
+.Brand-DIV2 {
+    margin-top: 30px;
+}
+.Branding-Process-images1to10 {
+    max-width: 100%;
+    transition: 0.4s;
+    margin-bottom: 35px;
+}
+.Branding-Process-images1to10:hover {
+    transform: scale(1.1);
+}
+
+/* +++++++++++++++++++++++++++++++++ BRAND Sect 5 CSS Close +++++++++++++++++++++++++++++++ */
+
+
+
+/* +++++++++++++++++++++++++++++++++ BRAND Sect 7 CSS Open +++++++++++++++++++++++++++++++ */
+
+.brandsect7 {
+    padding: 50px 0;
+    background-color: #f9f9f9;
+}
+.Brand-DIV3 {
+    margin-top: 50px;
+}
+.brandsect9 {
+    padding: 100px 0;
+}
+
+/* +++++++++++++++++++++++++++++++++ BRAND Sect 7 CSS Close ++++++++++++++++++++++++++++++ */
+
+
+
+/* +++++++++++++++++++++++++++++++++ CONTENT Sect 6 CSS Close ++++++++++++++++++++++++++++++ */
+
+.Contentsect6 {
+    padding: 50px 0;
+}
+.Content-Banner-img {
+    width: 100%;
+}
+.Growthsect2 {
+    padding: 50px 0;
+}
+
+/* +++++++++++++++++++++++++++++++++ CONTENT Sect 6 CSS Close ++++++++++++++++++++++++++++++ */
+
+
+
+/* +++++++++++++++++++++++++++++++++ Grow-Membership Sect 1 CSS Open ++++++++++++++++++++++++++++++ */
+
+.growmembershiphding {
+    font-size: 16px;
+    color: #fff;
+    font-weight: 500;
+}
+.growmembershiphding1 {
+    font-size: 30px;
+    color: #fff;
+    font-weight: 700;
+}
+.growmembershipsect1 {
+    background-color: #e62525;
+    padding: 60px 0;
+}
+
+/* +++++++++++++++++++++++++++++++++ Grow-Membership Sect 1 CSS Close ++++++++++++++++++++++++++++++ */
+
+
+
+/* +++++++++++++++++++++++++++++++++ Grow-Membership Sect 2 CSS Open ++++++++++++++++++++++++++++++ */
+
+.growmembershipsect2 {
+    padding: 80px 0;
+}
+#Memberships-ICONS {
+    color: #e62525;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+.growmembershiphding2 {
+    font-size: 20px;
+    color: #444;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.growmembershippara {
+    color: #A3A3A3;
+    font-size: 18px;
+}
+.growmembership-DIV {
+    margin-top: 40px;
+}
+.growmembershiphding3 {
+    padding: 25px 0 50px 0;
+}
+
+/* +++++++++++++++++++++++++++++++++ Grow-Membership Sect 2 CSS Close +++++++++++++++++++++++++++++ */
+
+
+/* +++++++++++++++++++++++++++++++++ Grow-Membership Sect 4 CSS open +++++++++++++++++++++++++++++ */
+
+.growmembershiphding4 {
+    padding: 50px 0;
+}
+.comaaas {
+    color: #e62525;
+    font-size: 130px;
+    line-height: 110px;
+    margin-bottom: -30px;
+    text-align: center;
+}
+.growmembershiphding5 {
+    font-size: 30px;
+    color: #676767;
+    font-weight: 600;
+    text-align: center;
+}
+
+/* +++++++++++++++++++++++++++++++++ Grow-Membership Sect 4 CSS Close +++++++++++++++++++++++++++++ */
+
+
+
+
+/* +++++++++++++++++++++++++++++++++ Grow-Membership Sect 5 CSS Open +++++++++++++++++++++++++++++ */
+
+.growmembershipsect5 {
+    padding: 50px 0;
+    background-color: #e7e7e7;
+}
+.Grow-Parent {
+    background-color: #e62525;
+    padding: 47px;
+}
+.growmembershiphding6 {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 600;
+}
+.growmembershippara1 {
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 25px;
+}
+.GROW-btn6 {
+    color: #e62525;
+    /* border: 3px solid #444; */
+    padding: 13px 20px;
+    border-radius: 50px;
+    background-color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+}
+.GROW-btn6:hover {
+    background-color: #ffffffd9;
+    transition: 0.5s;
+    /* border: 3px solid #e62525; */
+    text-decoration: none;
+    color: #e62525;
+}
+
+
+
+.growmembership-DIV1 {
+    margin-top: 40px;
+} 
+
+
+
+.Grow-Parent1 {
+    background-color: #fff;
+    padding: 85px 47px;
+}
+.growmembershiphding7 {
+    color: #333333;
+    font-size: 40px;
+    font-weight: 600;
+}
+.growmembershippara2 {
+    font-size: 18px;
+    color: #333333;
+    margin-bottom: 25px;
+}
+.GROW-btn7 {
+    color: #e62525;
+    /* border: 3px solid #444; */
+    padding: 13px 20px;
+    border-radius: 50px;
+    background-color: #e62525;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+}
+.GROW-btn7:hover {
+    background-color: #ed3636;
+    transition: 0.5s;
+    /* border: 3px solid #e62525; */
+    text-decoration: none;
+    color: #fff;
+}
+
+/* +++++++++++++++++++++++++++++++++ Grow-Membership Sect 5 CSS Close +++++++++++++++++++++++++++++ */
+
+
+
+/* +++++++++++++++++++++++++++++++++ Hourly Web Support Sect 1 CSS Open +++++++++++++++++++++++++++++ */
+
+.hourlysect1 {
+    background-color: #e62525;
+    padding: 70px 0;
+}
+.Hourly-Parent {
+    border: 3.5px solid #fff;
+    padding: 50px 0 65px 0;
+}
+.Hourly-Btn6 {
+    color: #fff;
+    border: 2px solid #fff;
+    padding: 13px 20px;
+    border-radius: 50px;
+    background-color: transparent;
+    font-size: 18px;
+    font-weight: 600;
+}
+.Hourly-Btn6:hover {
+    background-color: transparent;
+    transition: 0.5s;
+    border: 2px solid #fff;
+    text-decoration: none;
+    color: #fff;
+}
+.horlyhding {
+    font-size: 40px;
+    color: #fff;
+    margin: 40px 0;
+}
+
+/* +++++++++++++++++++++++++++++++++ Hourly Web Support Sect 1 CSS Close ++++++++++++++++++++++++++++ */
+
+
+
+
+/* +++++++++++++++++++++++++++++++++ Hourly Web Support Sect 2 CSS open ++++++++++++++++++++++++++++ */
+
+.hourlysect2 {
+    padding: 70px 0;
+    background-color: #f2f2f2;
+}
+.horlyhding1 {
+    font-size: 24px;
+    color: #444444;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.hourlypara {
+    color: #676767;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.wixsect1 {
+    padding: 60px 0;
+}
+
+/* +++++++++++++++++++++++++++++++++ Hourly Web Support Sect 2 CSS Close +++++++++++++++++++++++++++ */
+
+
+/* +++++++++++++++++++++++++++++++++ Affordable Web Design Sect 4 CSS open +++++++++++++++++++++++++++ */
+
+.HAND-PHONE-RED-img {
+    width: 15%;
+    margin-bottom: 35px;
+}
+.affordablepara {
+    color: #999999;
+    font-size: 16px;
+    font-weight: 500;
+}
+.affordablesect4 {
+    padding: 50px 0;
+}
+
+/* +++++++++++++++++++++++++++++++++ Affordable Web Design Sect 4 CSS Close ++++++++++++++++++++++++++ */
+
+
+
+/* +++++++++++++++++++++++++++++++++ Affordable Web Design Sect 5 CSS open ++++++++++++++++++++++++++ */
+
+.Affordable-img-1 {
+    width: 100%;
+    transition: 0.4s;
+}
+.Affordable-img-1:hover {
+    transform: scale(1.1);
+}
+.affordablehding {
+    font-size: 24px;
+    color: #444444;
+    margin: -4px 0 0 0;
+    font-weight: 600;
+}
+.one-CIRCLE {
+    font-size: 16px;
+    font-weight: 700;
+    border: 2px solid rgb(0 0 0 / 45%);
+    width: 26px;
+    height: 26px;
+    color: #343434;
+    border-radius: 50px;
+    text-align: center;
+    margin: 0;
+}
+.Circle-FLEX {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 23%;
+}
+.affordablesect5 {
+    padding: 50px 0;
+}
+
+/* +++++++++++++++++++++++++++++++++ Affordable Web Design Sect 5 CSS Close +++++++++++++++++++++++++ */
+
+
+
+/* +++++++++++++++++++++++++++++++++ Affordable Web Design Sect 6 CSS Open +++++++++++++++++++++++++ */
+
+.affordablesect6 {
+    padding: 50px 0;
+    background-color: #f7f7f7;
+}
+.affordablepara1 {
+    font-size: 18px;
+    color: #808080;
+    font-weight: 500;
+}
+.WEB-DIV {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 0 45px 40px 45px;
+}
+.WEB-DIV:hover {
+    transition: 0.5s;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    margin-top: -4px;
+}
+.Afforable-DIV {
+    margin-top: 40px;
+}
+
+/* +++++++++++++++++++++++++++++++++ Affordable Web Design Sect 6 CSS Close ++++++++++++++++++++++++ */
+
+
+/* +++++++++++++++++++++++++++++++++ More Services Sect 4 CSS open ++++++++++++++++++++++++ */
+
+.Morehding {
+    font-size: 24px;
+    color: #444444;
+    font-weight: 700;
+}
+.More-ULLI {
+    padding: 12px 0 0 25px;
+}
+.More-ULLI li {
+    font-size: 18px;
+    color: #e62525;
+    font-weight: 500;
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+.More-ULLI li::marker {
+    color: #808080;
+    font-size: 16px;
+}
+.MORE-PARENT {
+    border: 1.5px solid #67676773;
+    padding: 47px;
+    border-radius: 2px;
+}
+.Moresect4 {
+    padding: 0 0 50px 0;
+}
+
+/* +++++++++++++++++++++++++++++++++ More Services Sect 4 CSS Close ++++++++++++++++++++++++ */
+
+
+
+/* :::::::::::::::::::::::::::::::: LOGIN CSS Open :::::::::::::::::::::::::::::::: */
+
+.LOGINSECT {
+    padding: 50px 0 100px 0;
+}
+.Loginhding {
+    color: #e62525;
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+.USER-NAME {
+    font-size: 18px;
+    color: #676767;
+    font-weight: 500;
+}
+.required {
+    font-size: 18px;
+    color: #e62525;
+    font-weight: 700;
+}
+.User-Email {
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 14px;
+    background-color: rgba(0,0,0,0.035) !important;
+    border-bottom: 2px solid #e0e0e0 !important;
+    border: none;
+    padding: 16px;
+}
+.Remember-ME {
+    font-size: 18px;
+    color: #676767;
+    font-weight: 500;
+}
+.BTN-LOGIN {
+    padding: 10px;
+    width: 100%;
+    border-radius: 50px;
+    border: none;
+    color: #fff;
+    background-color: #e62525;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-top: 30px;
+    margin-bottom: 8px;
+}
+.BTN-LOGIN:hover {
+    /* margin-top: -2px; */
+    transition: 0.5s;
+    background-color: #ed3636;
+}
+.LOST-PASSWORD {
+    color: #e62525;
+    font-size: 18px;
+    font-weight: 500;
+}
+.LOST-PASSWORD:hover {
+    color: #444444;
+    text-decoration: none;
+    transition: 0.6s;
+}
+
+/* :::::::::::::::::::::::::::::::: LOGIN CSS close ::::::::::::::::::::::::::::::: */
+
+
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!! Client Portal CSS open !!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.CLIENT-PORTAL-SECT {
+    padding: 50px 0 80px 0;
+}
+.Clienthding {
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    color: #444;
+}
+.Clientpara {
+    font-size: 18px;
+    font-weight: 500;
+    color: #676767;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.Clienthding1 {
+    font-size: 32px;
+    margin-bottom: 15px;
+    color: #444444;
+    font-weight: 600;
+}
+.MHD-Parent {
+    border: 2px solid #e62525;
+    padding: 50px 35px 70px 35px;
+}
+.Client-Parent {
+    margin-top: 15px;
+}
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!! Client Portal CSS Close !!!!!!!!!!!!!!!!!!!!!!!! */
+
+
+
+/* |||||||||||||||||||||||| Email Newsletter CSS open |||||||||||||||||||||||| */
+
+.EMAILNEWS-Sect {
+    background-color: #ebe9e952;
+    padding: 100px 0;
+}
+.Email-Letter-img {
+    width: 100%;
+    margin-bottom: 18px;
+}
+.Email-NEWS-Letter-FORM {
+    background-color: #fff;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset !important;
+    padding: 23px;
+    border-radius: 5px;
+}
+.Newsletter-Content {
+    margin-top: 15%;
+}
+
+.Why-Content {
+    margin-top: 12%;
+}
+
+/* |||||||||||||||||||||||| Email Newsletter CSS close ||||||||||||||||||||||| */
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Why Choose Big Red Jelly CSS Open ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.Why-Choose-DIV {
+    margin-top: 30px;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Why Choose Big Red Jelly CSS close ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+
+/* ++++++++++++++++++++++++++++ Giving Back CSS open ++++++++++++++++++++++++++++ */
+
+.Giving-img-1 {
+    width: 80%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    transition: 0.4s;
+}
+.Giving-img-1:hover {
+    transform: scale(1.1);
+}
+.GivingSect1 {
+    background-color: #f9f9f9;
+    padding: 50px 0;
+}
+.Givinghding {
+    font-size: 50px;
+    text-align: center;
+    color: #444444;
+    font-weight: 700;
+}
+.Givinghding1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #444444;
+    text-align: center;
+}
+.Givingpara {
+    font-size: 18px;
+    color: #676767;
+    text-align: center;
+}
+.Giving-Content {
+    margin: 20% 0 0 0;
+}
+.Giving-Content {
+    margin: 17% 40px 0 40px;
+}
+
+
+
+
+
+.GivingSect2 {
+    padding: 50px 0;
+}
+.Giving-icon-123 {
+    width: 40%;
+    margin-bottom: 20px;
+}
+.Givinghding2 {
+    font-size: 24px;
+    color: #444444;
+    font-weight: 700;
+}
+.Giving-Back-Parent {
+    padding: 60px 50px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.Giving-Back-Parent1 {
+    padding: 60px 50px 117px 50px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.Giving-Back-Parent2 {
+    padding: 60px 50px 89px 50px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+
+
+
+.Giving-img-two {
+    width: 80%;
+    transition: 0.4s;
+}
+.Giving-img-two:hover {
+    transform: scale(1.1);
+}
+.Givinghding3 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #444444;
+}
+.Giving-Content1 {
+    margin-top: 20%;
+}
+.GivingSect3 {
+    padding: 50px 0;
+}
+.Giving-Content2 {
+    margin: 8% 25px 0 0;
+}
+
+/* ++++++++++++++++++++++++++++ Giving Back CSS Close +++++++++++++++++++++++++++ */
+
+
+
+
+/* ++++++++++++++++++++++++++++ Case Studies Sect 1 CSS Open +++++++++++++++++++++++++++ */
+
+.Casesect1 {
+    padding: 30px 0 50px 0;
+}
+.Case-img-123 {
+    width: 100%;
+    transition: 0.4s;
+}
+.Case-img-123:hover {
+    transform: scale(1.1);
+}
+.Case-Studies-Parent {
+    background-color: rgb(235 235 235) !important;
+    padding: 20px;
+}
+.Case-Studies-Parent:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    transition: 0.5s;
+}
+.Case-DIV {
+    margin-top: 30px;
+}
+
+/* ++++++++++++++++++++++++++++ Case Studies Sect 1 CSS Close ++++++++++++++++++++++++++ */
+
+
+
+
+/* +++++++++++++++++++++++++++++ Partner Program CSS open +++++++++++++++++++++++++++++ */
+
+.Partner-ulli {
+    padding: 0 0 0 20px;
+    margin: 45px 0 0 30px;
+}
+.Partner-ulli li {
+    padding-left: 20px;
+}
+.Partner-ulli li strong {
+    color: #fff;
+    font-weight: 500;
+    font-size: 18px;
+}
+.Partner-ulli li::marker {
+    color: #fff;
+    font-size: 14px;
+}
+
+
+
+
+
+.Partner-Program-liul {
+    padding: 12px 0 0 40px;
+}
+.Partner-Program-liul li {
+    font-size: 18px;
+    color: #676767;
+    font-weight: 500;
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+.Partner-Program-liul li::marker {
+    color: #808080;
+    font-size: 16px;
+}
+
+
+
+
+
+
+.Partner-Program-PARA {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 10px 40px 40px 37px;
+    color: rgba(0,0,0,.5) !important;
+}
+.Journey-FLEX {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+
+
+
+.partner-sect-form {
+    padding: 50px 0 70px 0;
+    background-color: #e5e5e57d !important;
+}
+
+/* +++++++++++++++++++++++++++++ Partner Program CSS Clsoe ++++++++++++++++++++++++++++ */
+
+
+
+/* +++++++++++++++++++++++++++++ Digital Marketing CSS open ++++++++++++++++++++++++++++ */
+
+.AtoZ {
+    color: #ed3636;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 20px 0 0 0;
+}
+.DigitalMarketingsect1 {
+    padding: 80px 0 50px 0;
+}
+.DigitalMarketingsect2 {
+    padding: 50px 0;
+}
+
+
+
+
+.Careers-Content {
+    margin: 7% 0 0 30px;
+}
+
+/* +++++++++++++++++++++++++++++ Digital Marketing CSS Clsoe ++++++++++++++++++++++++++++ */

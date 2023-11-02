@@ -1,0 +1,1504 @@
+@media (min-width: 320px) and (max-width: 767px){
+
+    .LOGO {
+        width: 70% !important;
+        height: auto;
+        position: absolute;
+        margin: -18px -22px;
+    }
+    .HederTop {
+        display: none;
+    }
+    .hding {
+        font-size: 32.5px;
+        margin: 0 0 30px 0;
+        line-height: 45px;
+        padding: 0 25px 0 0px;
+    }
+    .Brand-Buildimg {
+        display: none;
+    }
+    .sect1 {
+        padding-top: 55px;
+        padding-bottom: 0;
+        margin: 0 8px 20px 8px;
+    }
+    .btn3 {
+        font-size: 14px;
+    }
+    .btn4 {
+        font-size: 14px;
+    }
+    .btn1 {
+        display: none;
+    }
+    .btn2 {
+        padding: 7px 16px;
+        font-size: 16px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0 !important;
+    }
+    .navbar-light .navbar-toggler {
+        border-color: rgb(0 0 0 / 79%) !important;
+    }
+    .hding1 {
+        font-size: 28px;
+        line-height: 38.25px;
+    }
+    .hding1 br {
+        display: none;
+    }
+    .hding2 {
+        font-size: 18px;
+    }
+    .hding2 br {
+        display: none;
+    }
+    .sect3 {
+        padding: 30px 0 !important;
+    }
+    .hding3 {
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+    .icons {
+        margin-bottom: 10px !important;
+        margin-top: 20px;
+    }
+    .para {
+        font-size: 16px;
+    }
+    .hding4 {
+        font-size: 30px;
+        margin-bottom: 10px;
+        margin-top: 30px;
+    }
+    .line {
+        margin-bottom: 10px;
+        height: 4px;
+    }
+    .para1 {
+        margin-bottom: 20px;
+    }
+    .sect7 {
+        padding: 50px 0;
+    }
+    .sect6 {
+        padding: 20px 0;
+    }
+    .btn5 {
+        padding: 12px 20px;
+        font-size: 16px;
+    }
+    .para1 br {
+        display: none !important;
+    }
+    .maindiv1 {
+        margin-bottom: 20px;
+        padding: 35px 0 10px 0;
+    }
+    .maintexttimonial {
+        margin-bottom: 25px;
+    }
+    .hding7 {
+        font-size: 30px;
+    }
+    .BBGSTYLE {
+        font-size: 18px;
+    }
+    .BBGLIST {
+        padding: 15px 0 0 60px;
+    }
+    .parentdiv {
+        margin-bottom: 25px;
+        padding: 15px 0 !important;
+    }
+    .parentdiv1 {
+        margin-bottom: 25px;
+    }
+    .sect10 {
+        padding: 15px 0;
+    }
+    .sect9 {
+        padding: 20px 0;
+    }
+    .hding8 {
+        font-size: 24px;
+        line-height: 30px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    .para4 {
+        font-size: 16px;
+        padding: 0 10px;
+        margin-bottom: 35px;
+    }
+    .sect11 {
+        padding: 10px 0;
+    }
+    .hding9 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .para5 br {
+        display: none;
+    }
+    .para5 {
+        font-size: 16px;
+    }
+    .sect12content li {
+        padding: 0 !important;
+    }
+    .sect12content li strong {
+        font-size: 16px;
+    }
+    .page-2-img {
+        margin-top: 15px;
+    }
+    .phoneemail {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .btn6btn7 {
+        margin-top: 28px;
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        flex-direction: column;
+    }
+    #imgmobileset {
+        margin-top: 30px;
+    }
+    .scet5 {
+        padding: 0 0 30px 0;
+    }
+    .hding10 {
+        margin-top: 20px;
+        font-size: 16px;
+    }
+    .footpara a {
+        font-size: 14px;
+    }
+    .para6 {
+        color: #fff;
+        font-weight: 400;
+        font-size: 14px;
+        margin: 25px 0 10px 0;
+    }
+    a.Privacy-Policy {
+        color: #c3c3c3;
+        font-size: 14px;
+    }
+    .sectfooter {
+        padding: 30px 10px;
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+    .footline {
+        margin: 25px 0;
+    }
+    .faviconflexexes {
+        margin: 0 !important;
+    }
+    .maindiv4foot {
+        margin-top: 10px !important;
+    }
+    .sect13 {
+        padding: 0 0 50px 0;
+    }
+    .Resourceshding {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .para7 {
+        font-size: 16px !important;
+        line-height: 24px !important;
+    }
+    .Resourcessect1 {
+        padding: 50px 0 !important;
+        margin: 0 8px;
+    }
+    .Resourceshding1 {
+        font-size: 30px;
+        margin-bottom: 12px;
+    }
+    .para8 {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 15px;
+    }
+    .btn8btn9flex {
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 18px;
+    }
+    .btn8 {
+        padding: 14px 26px;
+    }
+    .btn9 {
+        padding: 8px 24px;
+    }
+    .Resources-imge-1 {
+        margin-top: 20px;
+    }
+    .Resourcessect2 {
+        padding: 20px 0;
+    }
+    section#sectfootermedai {
+        padding: 30px 10px;
+        margin-right: 8px;
+    }
+    h1#mobhding {
+        padding: 0;
+        font-size: 32px;
+    }
+    .Blogpara {
+        font-size: 18px;
+        margin: -12px 0 0 0;
+    }
+    #lightbulb {
+        margin-top: 25px;
+        font-size: 45px;
+    }
+    .Blogmaindiv {
+        margin-top: 20px;
+    }
+    .bloghding {
+        font-size: 20px;
+        margin-top: 25px;
+    }
+    .blogsectbackclor {
+        padding: 40px 0;
+    }
+    .blogsect1 {
+        margin: 0 8px;
+    }
+    div#navbarSupportedContent {
+        margin-left: 0 !important;
+    }
+    .Blog1234-img {
+        margin-bottom: 25px;
+        width: 90% !important;
+    }
+    .blogsect2 {
+        padding: 40px 0;
+    }
+    .Blogpara1 {
+        font-size: 16px;
+    }
+    .Blogpara1 br {
+        display: none;
+    }
+    .bloghding1 br {
+        display: none;
+    }
+    .bloghding1 {
+        font-size: 20px;
+    }
+    .Blogcontent1 {
+        margin-top: 20px;
+    }
+    .Blogsect3 {
+        padding: 10px 0;
+    }
+    .wordpresshding {
+        font-size: 22px;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .btn-Learn-More {
+        padding: 12px 20px;
+    }
+    .wordpresssect1 {
+        padding: 20px 0 36px 0;
+        margin: 10px 6px 0 6px;
+    }
+    .wordpresshding1 {
+        font-size: 30px;
+        margin: 0 0 5px 0;
+    }
+    .wordpresshding2 {
+        margin: 0 0 10px 0;
+    }
+    .Twenty-two {
+        font-size: 22px;
+    }
+    .Month {
+        font-size: 16px;
+    }
+    .Dollar {
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .btn7 {
+        padding: 14px 22px;
+    }
+    .Price-Table {
+        margin-bottom: 30px;
+    }
+    .wordpresssect2 {
+        padding: 50px 0;
+    }
+    .wordpresshding3 br {
+        display: none;
+    }
+    .wordpresshding3 {
+        font-size: 28px;
+    }
+    .wordpresspara {
+        font-size: 16px;
+        margin-top: 15px;
+    }
+    .maindiv4press {
+        margin-top: 25px;
+    }
+    .wordpresshding4 {
+        font-size: 22px;
+        font-weight: 600;
+        margin-top: 20px;
+        margin-bottom: 50px;
+    }
+    i#head-Bried-chart {
+        font-size: 50px;
+    }
+    .wordpresssect3 {
+        padding: 20px 0;
+        margin: 0 8px;
+    }
+    .wordpresshding5 br {
+        display: none;
+    }
+    .wordpresshding5 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .fa-arrow-down {
+        font-size: 40px !important;
+    }
+    .wordpresspara1 {
+        font-size: 16px;
+        padding: 0;
+    }
+    .wordpresssect4 {
+        padding: 30px 0 0 0;
+    }
+    .Hosting1-IMG {
+        width: 70%;
+        margin-bottom: 8px;
+    }
+    .wordpresspara2 br {
+        display: none;
+    }
+    .wordpresshding6 {
+        font-size: 22px;
+        margin-top: 20px;
+    }
+    .processhding {
+        font-size: 30px;
+    }
+    .processpara br {
+        display: none;
+    }
+    .processpara {
+        font-size: 20px;
+    }
+    .Procees_Name-Email-FORM {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .Process-div-1 {
+        margin-top: 15px;
+    }
+    .Process-banner-img {
+        margin-bottom: 30px;
+    }
+    .processdiv {
+        margin-top: 5px;
+    }
+    .processsect1 {
+        padding-top: 28px;
+        padding-bottom: 50px;
+        margin: 10px 6px 40px 6px;
+    }
+    .processsect4 {
+        padding: 10px 0 30px 0;
+    }
+    .processpara1 {
+        font-size: 16px;
+    }
+    .Process-banner-img-2 {
+        width: 100%;
+        margin-top: 12%;
+        margin-bottom: 8%;
+    }
+    .processsect8 {
+        padding: 45px 0 20px 0;
+    }
+    .processsect10 {
+        padding: 0 0 20px 0;
+    }
+    .counter {
+        font-size: 45px;
+    }
+    .iframe-MOBILE {
+        width: 100%;
+        height: auto;
+    }
+    .iframe-MOBILE-2 {
+        width: 100%;
+        height: auto;
+    }
+    .hding1 br {
+        display: none;
+    }
+    .Servicespara {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .iframe-MOBILE-2-3 {
+        margin-top: 35px;
+    }
+    .Services-Brand-Build-Grow {
+        padding: 35px 25px;
+        margin-bottom: 35px;
+    }
+    #lightbulb-BBG {
+        font-size: 40px !important;
+    }
+    .Servicessect6 {
+        padding: 30px 0;
+    }
+    .Servicessect4 {
+        padding: 25px 0;
+    }
+    .Serviceshding br {
+        display: none;
+    }
+    .Serviceshding {
+        font-size: 22px !important;
+    }
+    .ServicesDIVparent {
+        margin-top: 0 !important;
+    }
+    .Serviceshding1 {
+        font-size: 20px;
+        margin-bottom: 10%;
+    }
+    .Serviceshding1 br {
+        display: none;
+    }
+    #font-size-BRANDED {
+        font-size: 45px !important;
+    }
+    .Servicessect7 {
+        padding: 10px 0;
+    }
+    .Servicessect8 {
+        padding: 25px 0;
+    }
+    .IFRME-Mobile-Sect-10 {
+        width: 100%;
+        height: auto;
+    }
+    .ENTERPRISE-BUSINESS {
+        margin-bottom: 30px;
+    }
+    .Servicessect11 {
+        padding: 25px 0;
+    }
+    #mob-set-img {
+        margin-top: 50px !important;
+    }
+    .RequestaQuote-FORM {
+        padding: 25px 12px;
+    }
+    .RequestaQuotehding {
+        font-size: 21px;
+    }
+    .Name-Phone-Input {
+        width: 92%;
+    }
+    .Email-Input {
+        width: 92%;
+    }
+    .Input-Comments {
+        width: 92%;
+    }
+    .RequestaQuoteSECT {
+        padding: 0 0 60px 0;
+    }
+    .RequestaQuote-CAROUSEL {
+        padding: 10px 0 25px 0;
+    }
+    .responsive-map iframe {
+        width: 100%;
+        height: 400px;
+    }
+    .ContactSect {
+        padding: 20px 0 50px 0;
+    }
+    .BRANDED-IMAGES img {
+        width: 26%;
+    }
+    #Brand-img-1 {
+        margin: 0 0 20px 0 !important;
+    }
+    .BRANDED-IMAGES {
+        display: flex;
+        align-items: center;
+    }
+    .brandsect2 {
+        padding: 0;
+    }
+    .hding2 {
+        font-size: 18px !important;
+    }
+    .brandsect3 {
+        padding: 30px 0;
+    }
+    #ColoumnXL-MEDIA {
+        padding: 0 44px !important;
+    }
+    .brandpara {
+        margin-bottom: 40px;
+    }
+    .Brand-DIV1 {
+        margin-top: 30px;
+    }
+    .Brandhding1 br {
+        display: none;
+    }
+    .Brandhding1 {
+        font-size: 26px;
+        text-align: center;
+    }
+    .brandpara1 {
+        font-size: 16px;
+    }
+    span br {
+        display: none;
+    }
+    .fa-check {
+        font-size: 24px !important;
+        margin-top: -20px;
+    }
+    .brandsect4 {
+        padding: 0 0 40px 0;
+    }
+    .Brand-DIV2 {
+        margin-top: 15px;
+    }
+    .brandpara2 {
+        font-size: 16px;
+        margin-bottom: 12px;
+    }
+    .Brandhding2 {
+        font-size: 28px;
+        margin-bottom: 12px;
+    }
+    .brandpara3 {
+        padding: 0;
+        font-size: 16px;
+    }
+    .brandsect5 {
+        padding-top: 50px;
+        padding-bottom: 60px;
+        margin: 0 6px;
+    }
+    .Branding-Process-images1to10 {
+        margin-bottom: 25px;
+    }
+    .brandsect7 {
+        padding: 30px 0;
+    }
+    .brandsect9 {
+        padding: 40px 0;
+    }
+    .fa-flex-para1 {
+        gap: 16px;
+    }
+    .growmembershiphding1 {
+        font-size: 25px;
+    }
+    .growmembershipsect1 {
+        padding: 40px 0;
+        margin: 0 6px;
+    }
+    .growmembershipsect2 {
+        padding: 40px 0;
+    }
+    .growmembershiphding2 {
+        font-size: 18px;
+    }
+    .growmembershippara {
+        font-size: 16px;
+        margin-bottom: 40px;
+    }
+    #Memberships-ICONS {
+        font-size: 40px;
+    }
+    .growmembershiphding5 {
+        font-size: 24px;
+    }
+    .comaaas {
+        font-size: 100px;
+    }
+    .growmembershiphding4 {
+        padding: 25px 0 0 0;
+    }
+    .growmembershiphding6 {
+        font-size: 30px;
+    }
+    .Grow-Parent {
+        padding: 35px 20px;
+    }
+    .growmembershippara1 {
+        font-size: 16px;
+    }
+    .Grow-Parent1 {
+        padding: 25px 20px 40px 20px;
+        margin-top: 30px;
+    }
+    .growmembershiphding7 {
+        font-size: 30px;
+    }
+    .growmembershippara2 {
+        font-size: 16px;
+    }
+    .growmembership-DIV1 {
+        margin-top: 20px;
+    }
+    .growmembershipsect5 {
+        padding: 30px 0;
+        margin-bottom: 30px;
+    }
+    .Hourly-Parent {
+        border: 2.5px solid #fff;;
+        padding: 30px 0 45px 0;
+        margin-bottom: 25px;
+    }
+    .hourlysect1 {
+        padding: 35px 0 40px 0;
+        margin: 0 4px;
+    }
+    .horlyhding1 {
+        font-size: 20px;
+        margin-bottom: 12px;
+        margin-top: 40px;
+    }
+    .hourlypara {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .hourlysect2 {
+        padding: 0 0 25px 0;
+    }
+    .horlyhding {
+        font-size: 26px;
+        margin: 5px 0 25px 0;
+    }
+    .wixsect1 {
+        padding: 25px 0;
+    }
+    .affordablesect4 {
+        padding: 10px 0 0 0;
+    }
+    .affordablehding {
+        font-size: 20px;
+        margin: -4px 0 0 0;
+    }
+    .Circle-FLEX {
+        margin-bottom: 10%;
+    }
+    .one-CIRCLE {
+        font-size: 14px;
+        width: 24px;
+        height: 24px;
+    }
+    .affordablesect5 {
+        padding: 25px 0;
+    }
+    .affordablesect6 {
+        padding: 8px 0;
+    }
+    .affordablepara1 br {
+        display: none;
+    }
+    .affordablepara1 {
+        font-size: 16px;
+    }
+    .WEB-DIV {
+        padding: 0 30px 35px 30px;
+        margin-bottom: 40px;
+    }
+    .MORE-PARENT {
+        padding: 25px;
+        margin-bottom: 30px;
+    }
+    .Morehding {
+        font-size: 22px;
+    }
+    .More-ULLI li {
+        font-size: 16px;
+        padding-left: 10px;
+    }
+    .More-ULLI li::marker {
+        font-size: 14px;
+    }
+    .Moresect4 {
+        padding: 15px 0 20px 0;
+    }
+    .Loginhding {
+        font-size: 30px;
+        margin-bottom: 25px;
+    }
+    .BTN-LOGIN {
+        margin-top: 20px;
+    }
+    .LOGINSECT {
+        padding: 30px 0 65px 0;
+        margin: 0 10px;
+    }
+    .Clienthding {
+        font-size: 30px;
+    }
+    .Clientpara {
+        font-size: 16px;
+    }
+    .Clienthding1 {
+        font-size: 28px;
+    }
+    .Clientpara br {
+        display: none;
+    }
+    .MHD-Parent {
+        padding: 35px 25px 55px 25px;
+        margin: 0 8px 25px 8px;
+    }
+    .Client-Parent {
+        margin-top: 0px;
+    }
+    .CLIENT-PORTAL-SECT {
+        padding: 30px 0 40px 0;
+    }
+    .Newsletter-Content {
+        margin: 0 8px;
+    }
+    .EMAILNEWS-Sect {
+        padding: 25px 0 40px 0;
+    }
+    .processhding1 br {
+        display: none !important;
+    }
+    .affordablepara br {
+        display: none;
+    }
+    .Givinghding {
+        font-size: 32px;
+    }
+    .Giving-img-1 {
+        width: 75%;
+    }
+    .Givinghding1 {
+        font-size: 24px;
+        margin-bottom: 12px;
+    }
+    .Givingpara {
+        font-size: 16px;
+    }
+    .Givingpara br {
+        display: none;
+    }
+    .Giving-Content {
+        margin: 10% 0px 0 0px;
+    }
+    .GivingSect1 {
+        background-color: #f9f9f9;
+        padding: 25px 0;
+    }
+    .GivingSect2 {
+        padding: 25px 0;
+    }
+    .Giving-Back-Parent {
+        padding: 20px 20px;
+        margin-bottom: 30px;
+    }
+    .Givinghding2 {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .Givinghding2 br {
+        display: none;
+    }
+    .Giving-Back-Parent1 {
+        padding: 20px;
+        margin-bottom: 30px;
+    }
+    .Giving-Back-Parent2 {
+        padding: 20px;
+    }
+    .GivingSect3 {
+        padding: 25px 0;
+    }
+    .Giving-img-two {
+        width: 75%;
+    }
+    .Givinghding3 {
+        font-size: 30px;
+    }
+    .Giving-Content1 {
+        margin-top: 10%;
+    }
+    .Giving-Content2 {
+        margin: 0 0 30px 0;
+    }
+    .Case-DIV {
+        margin-top: 20px;
+    }
+    .Case-Studies-Parent {
+        margin-bottom: 30px;
+    }
+    .Casesect1 {
+        padding: 15px 0;
+    }
+    .Partner-ulli {
+        padding: 0 0 0 20px;
+       margin: 20px 0 0 5px;
+    }
+    .Partner-Program-liul {
+        padding: 12px 0 0 16px;
+    }
+    .Partner-Program-liul li {
+        padding-left: 10px;
+    }
+    #hdingpart-mob {
+        font-size: 25px !important;
+        margin-top: 20px;
+    }
+    .Partner-Program-PARA {
+        font-size: 17px;
+        margin: 10px 0px 25px 37px;
+    }
+    .partner-sect-form {
+        padding: 0px 0 45px 0;
+    }
+    .DigitalMarketingsect1 {
+        padding: 30px 0 19px 0;
+    }
+    .DigitalMarketingsect2 {
+        padding: 25px 0;
+    }
+    .Careers-Content {
+        margin: 5% 0 0 15px;
+    }
+    #Careers-hding-mob {
+        font-size: 20px !important;
+        margin-bottom: 55px;
+    }
+    
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/* only screen and (max-width: 999px) and (min-width: 690px) */
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+
+    /* .Brand-Buildimg {
+        display: none;
+    } */
+    .hding {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .Content1 {
+        margin-top: -50px;
+    }
+    .tabletflex {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+    }
+    .sect1 {
+        padding-bottom: 15px;
+        margin: 0 8px;
+    }
+    .hding {
+        margin: 0 0 20px 0;
+    }
+    .hding1 {
+        font-size: 32px;
+        line-height: 44px;
+    }
+    .hding2 {
+        font-size: 24px;
+        line-height: 35px;
+    }
+    .hding1 br {
+        display: none;
+    }
+    .hding2 br {
+        display: none;
+    }
+    .hding3 {
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+    .para br {
+        display: none;
+    }
+    .hding4 {
+        font-size: 32px;
+        margin-bottom: 14px;
+    }
+    .line {
+        margin-bottom: 14px !important;
+    }
+    .para1 {
+        margin-bottom: 28px;
+    }
+    .Home-Page-img {
+        margin-top: 60px;
+    }
+    .para1 br {
+        display: none;
+    }
+    .maintexttimonial {
+        padding: 15px 5px;
+    }
+    #staricon2 {
+        margin-top: 5px;
+    }
+    .hding7 {
+        font-size: 34px;
+    }
+    .BBGLIST {
+        padding: 0;
+    }
+    .borders {
+        border: 3px solid #0f86c8;
+        padding: 5px 40px;
+    }
+    .sect9 {
+        padding: 20px 0;
+    }
+    .sectfooter {
+        margin: 0 10px;
+    }
+    .flexlinkyouinsta {
+        margin-top: 10px;
+    }
+    .LOGO {
+        width: 50% !important;
+        height: auto;
+    }
+    div#navbarSupportedContent {
+        margin-left: 0 !important;
+    }
+    .btn1 {
+        display: none;
+    }
+    .bloghding {
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .Blogpara {
+        font-size: 22px;
+        margin: -12px 0 0 0;
+    }
+    .blogsectbackclor {
+        padding: 80px 0;
+    }
+    .blogsect1 {
+        margin: 0 8px;
+    }
+    .Resourcessect1 {
+        padding: 45px 0 !important;
+        margin: 0 8px;
+    }
+    .btn8btn9flex {
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 16px;
+    }
+    .Resources-imge-1 {
+        margin-top: 30%;
+    }
+    .Resourceshding1 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .para8 {
+        margin-bottom: 15px;
+    }
+    .btn8 {
+        padding: 18px 30px;
+    }
+    .btn9 {
+        padding: 12px 30px;
+    }
+    .Resourcessect2 {
+        padding: 10px 0;
+    }
+    .Blogpara1 {
+        font-size: 16px;
+        margin: 10px 0;
+    }
+    .Blogpara1 br {
+        display: none;
+    }
+    .bloghding1 br {
+        display: none;
+    }
+    .bloghding1 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .wordpresssect1 {
+        padding: 30px 0;
+        margin: 0 8px;
+    }
+    .wordpresshding {
+        font-size: 22px;
+    }
+    .wordpresssect2 {
+        padding: 60px 0;
+    }
+    .wordpresshding1 {
+        font-size: 22px;
+    }
+    .Price-Table {
+        padding: 14px 10px;
+    }
+    .wordpresshding2 {
+        font-size: 14px;
+        margin: 0 0 10px 0;
+    }
+    .Pay-YM li {
+        font-size: 14px;
+    }
+    .Twenty-two {
+        font-size: 24px;
+    }
+    .Month {
+        font-size: 18px;
+    }
+    .Dollar {
+        font-size: 14px;
+    }
+    .Dollar-Two-Flex {
+        display: flex;
+        align-items: flex-start;
+        gap: 4px;
+        margin-bottom: 10px;
+        flex-direction: column;
+    }
+    .btn7 {
+        font-size: 16px;
+        padding: 14px 16px;
+    }
+    .wordpresshding3 br {
+        display: none;
+    }
+    .wordpresshding3 {
+        font-size: 32px;
+    }
+    i#head-Bried-chart {
+        font-size: 50px;
+    }
+    .maindiv4press {
+        margin-top: 25px;
+    }
+    .wordpresshding4 {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .wordpresshding5 br {
+        display: none;
+    }
+    .wordpresshding5 {
+        font-size: 28px;
+    }
+    .fa-arrow-down {
+        font-size: 40px !important;
+    }
+    .wordpresspara1 {
+        font-size: 16px;
+        padding: 0 20%;
+    }
+    .wordpresspara2 {
+        font-size: 16px;
+    }
+    .wordpresspara2 br {
+        display: none;
+    }
+    .processhding {
+        font-size: 35px;
+    }
+    .processpara br {
+        display: none;
+    }
+    .processpara {
+        font-size: 22px;
+    }
+    .processsect1 {
+        padding-top: 40px;
+        margin: 0 6px;
+    }
+    .processhding1 {
+        font-size: 22px;
+    }
+    .Process-form-Control {
+        padding: 15px 10px;
+    }
+    .Procees_Name-Email-FORM {
+        width: 100%;
+    }
+    .Process-div-1 {
+        margin-top: 16px;
+    }
+    .Process-banner-img {
+        margin-top: 15%;
+    }
+    .processsect8 {
+        padding: 50px 0 20px 0;
+    }
+    section.sect7 {
+        margin: 0 8px;
+        padding: 80px 0;
+    }
+    .counter {
+        font-size: 40px;
+    }
+    .Process-banner-img-2 {
+        margin-top: 50%;
+    }
+    .processsect4 {
+        padding: 30px 0;
+    }
+    iframe.iframe-MOBILE {
+        width: 100%;
+        height: -webkit-fill-available;
+    }
+    iframe.iframe-MOBILE-2 {
+        width: 100%;
+        height: 300px;
+    }
+    .iframe-MOBILE-2-3 {
+        margin-top: 35%;
+    }
+    #lightbulb-BBG {
+        font-size: 35px !important;
+    }
+    h2#hding7tabletset {
+        font-size: 25px !important;
+    }
+    .Services-Brand-Build-Grow {
+        padding: 20px;
+        background-color: #fff;
+    }
+    .Research-WEB-Growth li {
+        padding-left: 10px;
+    }
+    .Research-WEB-Growth {
+        padding: 10px 0 0 20px;
+    }
+    .Servicespara br {
+        display: none;
+    }
+    .Services-img-2-hover {
+        margin-top: 20%;
+    }
+    #font-size-BRANDED {
+        font-size: 48px;
+        margin-bottom: 20px;
+    }
+    .Serviceshding1 {
+        font-size: 20px;
+    }
+    .Servicessect7 {
+        padding: 30px 0 40px 0;
+    }
+    .ServicesDIVparent {
+        margin-top: 30px;
+    }
+    .Servicessect10 {
+        padding: 25px 0;
+    }
+    iframe.IFRME-Mobile-Sect-10 {
+        width: 100%;
+        height: auto;
+    }
+    .Serviceshding2 {
+        font-size: 25px;
+        margin: 15px 0 8px 0;
+    }
+    .Serviceshding3 {
+        font-size: 25px;
+        margin-bottom: 25px;
+    }
+    .Serviceshding5 {
+        font-size: 18px;
+        margin-top: 15px;
+    }
+    .ENTERPRISE-BUSINESS {
+        padding: 10%;
+    }
+    .ServicesDIV2 {
+        margin-top: 0 !important;
+    }
+    .Servicessect4 {
+        padding: 15px 0 30px 0;
+    }
+    .Request-imges {
+        margin-top: 50% !important;
+    }
+    .responsive-map iframe {
+        width: 100%;
+    }
+    .ContactSect {
+        padding: 25px 0 65px 0;
+    }
+    .BRANDED-IMAGES img {
+        width: 25%;
+    }
+    .brandsect2 {
+        padding: 25px 0;
+    }
+    .brandsect3 {
+        padding: 40px 0;
+    }
+    .Brand-DIV1 {
+        margin-top: 20px;
+    }
+    span br {
+        display: none;
+    }
+    .brandsect4 {
+        padding: 40px 0 50px 0;
+    }
+    .Brandhding1 br {
+        display: none;
+    }
+    .Brandhding1 {
+        font-size: 26px;
+    }
+    .fa-check {
+        font-size: 24px !important;
+        margin-top: -24px;
+    }
+    .brandpara3 {
+        font-size: 16px;
+        padding-right: 25px;
+    }
+    .brandpara2 {
+        margin-bottom: 12px;
+        font-size: 16px;
+    }
+    .Brandhding2 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .brandsect5 {
+        padding-top: 55px;
+        padding-bottom: 40px;
+        margin: 0 8px;
+    }
+    .REQUEST-Content li strong {
+        font-size: 16px;
+    }
+    .REQUEST-Content li {
+        padding-left: 8px;
+    }
+    .brandsect7 {
+        padding: 25px 0;
+    }
+    .brandsect9 {
+        padding: 50px 0 30px 0;
+    }
+    .Grow-Parent {
+        padding: 25px;
+    }
+    .growmembershiphding6 {
+        font-size: 24px;
+    }
+    .growmembershippara1 {
+        font-size: 16px;
+    }
+    .growmembershiphding7 {
+        font-size: 24px;
+    }
+    .growmembershippara2 {
+        font-size: 16px;
+    }
+    .Grow-Parent1 {
+        background-color: #fff;
+        padding: 38px 25px;
+    }
+    .growmembership-DIV1 {
+        margin-top: 25px;
+    }
+    .growmembershiphding2 {
+        font-size: 18px;
+    }
+    .growmembershippara {
+        font-size: 16px;;
+    }
+    #Memberships-ICONS {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+    .growmembershipsect2 {
+        padding: 50px 0;
+    }
+    .horlyhding {
+        font-size: 34px;
+        color: #fff;
+        margin: 40px 0;
+    }
+    .wixsect1 {
+        padding: 40px 0;
+    }
+    .WEB-DIV {
+        padding: 0 10px 25px 10px;
+    }
+    .affordablepara1 {
+        font-size: 16px;
+    }
+    .affordablepara1 br {
+        display: none;
+    }
+    .affordablehding {
+        font-size: 22px;
+        margin: -2px 0 0 0;
+    }
+    .Circle-FLEX {
+        margin-bottom: 19%;
+    }
+    .affordablesect6 {
+        padding: 25px 0;
+    }
+    .MORE-PARENT {
+        padding: 25px 10px;
+    }
+    .Morehding {
+        font-size: 22px;
+    }
+    .More-ULLI li {
+        font-size: 16px;
+        padding-left: 5px;
+    }
+    .More-ULLI {
+        padding: 8px 0 0 22px;
+    }
+    .Clienthding {
+        font-size: 35px;
+    }
+    .MHD-Parent {
+        padding: 30px 15px 45px 15px;
+    }
+    .Clientpara br {
+        display: none;
+    }
+    .Clientpara {
+        font-size: 16px;
+    }
+    .EMAILNEWS-Sect {
+        padding: 40px 0 65px 0;
+    }
+    .affordablepara br {
+        display: none;
+    }
+    .Givinghding {
+        font-size: 35px;
+    }
+    .Givinghding1 {
+        font-size: 24px;
+        margin-bottom: 12px;
+    }
+    .Giving-Content {
+        margin: 0 !important;
+    }
+    .Giving-Back-Parent2 {
+        padding: 30px 20px 50px 20px;
+    }
+    .Giving-Back-Parent1 {
+        padding: 30px 25px 53px 25px;
+    }
+    .Giving-Back-Parent {
+        padding: 13px 25px;
+    }
+    .Givinghding3 {
+        font-size: 32px;
+    }
+    .Giving-Content1 {
+        margin-top: 0;
+    }
+    .Giving-Content2 {
+        margin: 0;
+    }
+    .Givingpara br {
+        display: none;
+    }
+    .Case-Studies-Parent {
+        padding: 10px;
+    }
+    .Casesect1 {
+        padding: 20px 0 25px 0;
+    }
+    .Partner-ulli {
+        margin: 0px 0 0 10px !important;
+    }
+    .Partner-ulli li {
+        padding-left: 15px;
+    }
+    .Partner-Program-liul li {
+        padding-left: 5px;
+        font-size: 15px;
+    }
+    .Partner-Program-PARA {
+        font-size: 16px;
+        margin: 10px 0px 20px 37px;
+    }
+    .DigitalMarketingsect1 {
+        padding: 40px 0 20px 0;
+    }
+    #Careers-hding-mob {
+        font-size: 22px !important;
+        text-align: center !important;
+    }
+    .BBGSTYLE {
+        font-size: 18px;
+    }
+    .BBGLIST {
+        padding: 8px 0 0 20px;
+        margin-left: 12px;
+    }
+    .para4 {
+        font-size: 17px;
+        padding: 0 20px 15px 0;
+    }
+
+
+
+}
